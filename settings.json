@@ -8,7 +8,7 @@
   "server": {
     "ip": "SMPmccc.aternos.me",
     "port": 50187,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
